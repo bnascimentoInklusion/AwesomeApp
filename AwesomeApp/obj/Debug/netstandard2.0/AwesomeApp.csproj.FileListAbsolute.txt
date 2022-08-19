@@ -1,0 +1,14 @@
+/Users/brunonascimento/Documents/dotnet core/AwesomeApp/AwesomeApp/bin/Debug/netstandard2.0/AwesomeApp.deps.json
+/Users/brunonascimento/Documents/dotnet core/AwesomeApp/AwesomeApp/bin/Debug/netstandard2.0/AwesomeApp.dll
+/Users/brunonascimento/Documents/dotnet core/AwesomeApp/AwesomeApp/bin/Debug/netstandard2.0/ref/AwesomeApp.dll
+/Users/brunonascimento/Documents/dotnet core/AwesomeApp/AwesomeApp/bin/Debug/netstandard2.0/AwesomeApp.pdb
+/Users/brunonascimento/Documents/dotnet core/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/AwesomeApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brunonascimento/Documents/dotnet core/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/brunonascimento/Documents/dotnet core/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/brunonascimento/Documents/dotnet core/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/AwesomeApp.AssemblyInfoInputs.cache
+/Users/brunonascimento/Documents/dotnet core/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/AwesomeApp.AssemblyInfo.cs
+/Users/brunonascimento/Documents/dotnet core/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/AwesomeApp.csproj.CoreCompileInputs.cache
+/Users/brunonascimento/Documents/dotnet core/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/brunonascimento/Documents/dotnet core/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/AwesomeApp.dll
+/Users/brunonascimento/Documents/dotnet core/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/ref/AwesomeApp.dll
+/Users/brunonascimento/Documents/dotnet core/AwesomeApp/AwesomeApp/obj/Debug/netstandard2.0/AwesomeApp.pdb

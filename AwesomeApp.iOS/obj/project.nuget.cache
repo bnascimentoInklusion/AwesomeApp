@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "b8TbNIm/TgRoQ+s3iHnaPk5NPcxD1xvVg0E7/0L41IBQa1LvDeMRCMQZQxkm1qqGh9l+Jz4fwqz08ok8kEUkow==",
+  "success": true,
+  "projectFilePath": "/Users/brunonascimento/Documents/dotnet core/AwesomeApp/AwesomeApp.iOS/AwesomeApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/brunonascimento/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/brunonascimento/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/brunonascimento/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

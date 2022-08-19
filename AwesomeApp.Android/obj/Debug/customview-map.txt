@@ -1,0 +1,50 @@
+@string/appbar_scrolling_view_behavior;/Users/brunonascimento/Documents/dotnet core/AwesomeApp/AwesomeApp.Android/obj/Debug/lp/45/jl/res/layout/rootlayout.xml
+adaptive-icon;obj/Debug/res/mipmap-anydpi-v26/icon.xml
+adaptive-icon;obj/Debug/res/mipmap-anydpi-v26/icon_round.xml
+alpha;/Users/brunonascimento/Documents/dotnet core/AwesomeApp/AwesomeApp.Android/obj/Debug/lp/45/jl/res/anim/enterfromleft.xml
+alpha;/Users/brunonascimento/Documents/dotnet core/AwesomeApp/AwesomeApp.Android/obj/Debug/lp/45/jl/res/anim/exittoleft.xml
+androidx.appcompat.widget.Toolbar;/Users/brunonascimento/Documents/dotnet core/AwesomeApp/AwesomeApp.Android/obj/Debug/lp/45/jl/res/layout/fallbacktoolbardonotuse.xml
+androidx.appcompat.widget.Toolbar;/Users/brunonascimento/Documents/dotnet core/AwesomeApp/AwesomeApp.Android/obj/Debug/lp/45/jl/res/layout/rootlayout.xml
+androidx.appcompat.widget.Toolbar;/Users/brunonascimento/Documents/dotnet core/AwesomeApp/AwesomeApp.Android/obj/Debug/lp/45/jl/res/layout/shellcontent.xml
+androidx.appcompat.widget.Toolbar;/Users/brunonascimento/Documents/dotnet core/AwesomeApp/AwesomeApp.Android/obj/Debug/lp/45/jl/res/layout/toolbar.xml
+androidx.coordinatorlayout.widget.CoordinatorLayout;/Users/brunonascimento/Documents/dotnet core/AwesomeApp/AwesomeApp.Android/obj/Debug/lp/45/jl/res/layout/rootlayout.xml
+androidx.coordinatorlayout.widget.CoordinatorLayout;/Users/brunonascimento/Documents/dotnet core/AwesomeApp/AwesomeApp.Android/obj/Debug/lp/45/jl/res/layout/shellcontent.xml
+attr;/Users/brunonascimento/Documents/dotnet core/AwesomeApp/AwesomeApp.Android/obj/Debug/lp/45/jl/res/values/attrs.xml
+background;obj/Debug/res/mipmap-anydpi-v26/icon.xml
+background;obj/Debug/res/mipmap-anydpi-v26/icon_round.xml
+cache-path;/Users/brunonascimento/Documents/dotnet core/AwesomeApp/AwesomeApp.Android/obj/Debug/lp/44/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
+color;obj/Debug/res/values/colors.xml
+com.google.android.material.appbar.AppBarLayout;/Users/brunonascimento/Documents/dotnet core/AwesomeApp/AwesomeApp.Android/obj/Debug/lp/45/jl/res/layout/flyoutcontent.xml
+com.google.android.material.appbar.AppBarLayout;/Users/brunonascimento/Documents/dotnet core/AwesomeApp/AwesomeApp.Android/obj/Debug/lp/45/jl/res/layout/rootlayout.xml
+com.google.android.material.appbar.AppBarLayout;/Users/brunonascimento/Documents/dotnet core/AwesomeApp/AwesomeApp.Android/obj/Debug/lp/45/jl/res/layout/shellcontent.xml
+com.google.android.material.bottomnavigation.BottomNavigationView;/Users/brunonascimento/Documents/dotnet core/AwesomeApp/AwesomeApp.Android/obj/Debug/lp/45/jl/res/layout/bottomtablayout.xml
+com.google.android.material.tabs.TabLayout;/Users/brunonascimento/Documents/dotnet core/AwesomeApp/AwesomeApp.Android/obj/Debug/lp/45/jl/res/layout/fallbacktabbardonotuse.xml
+com.google.android.material.tabs.TabLayout;/Users/brunonascimento/Documents/dotnet core/AwesomeApp/AwesomeApp.Android/obj/Debug/lp/45/jl/res/layout/rootlayout.xml
+com.google.android.material.tabs.TabLayout;/Users/brunonascimento/Documents/dotnet core/AwesomeApp/AwesomeApp.Android/obj/Debug/lp/45/jl/res/layout/tabbar.xml
+declare-styleable;/Users/brunonascimento/Documents/dotnet core/AwesomeApp/AwesomeApp.Android/obj/Debug/lp/45/jl/res/values/attrs.xml
+external-cache-path;/Users/brunonascimento/Documents/dotnet core/AwesomeApp/AwesomeApp.Android/obj/Debug/lp/44/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
+external-path;/Users/brunonascimento/Documents/dotnet core/AwesomeApp/AwesomeApp.Android/obj/Debug/lp/44/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
+foreground;obj/Debug/res/mipmap-anydpi-v26/icon.xml
+foreground;obj/Debug/res/mipmap-anydpi-v26/icon_round.xml
+FrameLayout;/Users/brunonascimento/Documents/dotnet core/AwesomeApp/AwesomeApp.Android/obj/Debug/lp/45/jl/res/layout/bottomtablayout.xml
+item;/Users/brunonascimento/Documents/dotnet core/AwesomeApp/AwesomeApp.Android/obj/Debug/lp/45/jl/res/values/styles.xml
+LinearLayout;/Users/brunonascimento/Documents/dotnet core/AwesomeApp/AwesomeApp.Android/obj/Debug/lp/45/jl/res/layout/bottomtablayout.xml
+paths;/Users/brunonascimento/Documents/dotnet core/AwesomeApp/AwesomeApp.Android/obj/Debug/lp/44/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
+resources;/Users/brunonascimento/Documents/dotnet core/AwesomeApp/AwesomeApp.Android/obj/Debug/lp/45/jl/res/values/attrs.xml
+resources;/Users/brunonascimento/Documents/dotnet core/AwesomeApp/AwesomeApp.Android/obj/Debug/lp/45/jl/res/values/strings.xml
+resources;/Users/brunonascimento/Documents/dotnet core/AwesomeApp/AwesomeApp.Android/obj/Debug/lp/45/jl/res/values/styles.xml
+resources;obj/Debug/res/values/colors.xml
+resources;obj/Debug/res/values/styles.xml
+set;/Users/brunonascimento/Documents/dotnet core/AwesomeApp/AwesomeApp.Android/obj/Debug/lp/45/jl/res/anim/enterfromleft.xml
+set;/Users/brunonascimento/Documents/dotnet core/AwesomeApp/AwesomeApp.Android/obj/Debug/lp/45/jl/res/anim/enterfromright.xml
+set;/Users/brunonascimento/Documents/dotnet core/AwesomeApp/AwesomeApp.Android/obj/Debug/lp/45/jl/res/anim/exittoleft.xml
+set;/Users/brunonascimento/Documents/dotnet core/AwesomeApp/AwesomeApp.Android/obj/Debug/lp/45/jl/res/anim/exittoright.xml
+string;/Users/brunonascimento/Documents/dotnet core/AwesomeApp/AwesomeApp.Android/obj/Debug/lp/45/jl/res/values/strings.xml
+style;/Users/brunonascimento/Documents/dotnet core/AwesomeApp/AwesomeApp.Android/obj/Debug/lp/45/jl/res/values/styles.xml
+style;obj/Debug/res/values/styles.xml
+translate;/Users/brunonascimento/Documents/dotnet core/AwesomeApp/AwesomeApp.Android/obj/Debug/lp/45/jl/res/anim/enterfromleft.xml
+translate;/Users/brunonascimento/Documents/dotnet core/AwesomeApp/AwesomeApp.Android/obj/Debug/lp/45/jl/res/anim/enterfromright.xml
+translate;/Users/brunonascimento/Documents/dotnet core/AwesomeApp/AwesomeApp.Android/obj/Debug/lp/45/jl/res/anim/exittoleft.xml
+translate;/Users/brunonascimento/Documents/dotnet core/AwesomeApp/AwesomeApp.Android/obj/Debug/lp/45/jl/res/anim/exittoright.xml
+xamarin.forms.platform.android.appcompat.FormsViewPager;/Users/brunonascimento/Documents/dotnet core/AwesomeApp/AwesomeApp.Android/obj/Debug/lp/45/jl/res/layout/rootlayout.xml
+xamarin.forms.platform.android.ShellFlyoutLayout;/Users/brunonascimento/Documents/dotnet core/AwesomeApp/AwesomeApp.Android/obj/Debug/lp/45/jl/res/layout/flyoutcontent.xml

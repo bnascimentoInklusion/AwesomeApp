@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{8862A043-1850-44A4-ACA8-3BF7E9C61E06}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AwesomeApp/MainPage.xaml.cs">
+    <Files>
+      <File FileName="AwesomeApp/MainPage.xaml" Line="11" Column="57" />
+      <File FileName="AwesomeApp/MainPage.xaml.cs" Line="23" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AwesomeApp" expanded="True">
+            <Node name="AwesomeApp" expanded="True">
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="AwesomeApp.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AwesomeApp.Android PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AwesomeApp.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget." />
+</Properties>
